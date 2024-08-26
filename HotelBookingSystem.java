@@ -52,9 +52,7 @@ public class HotelBookingSystem {
 		for(Entry<String, String> map : bookings.entrySet()){
 			System.out.println(map.getKey()+" "+map.getValue());
 		}
-			
-		
-		
+				
 	}
 	
 	public static void main(String[] args) {
